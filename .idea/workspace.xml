@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b0e2049-f288-4775-a344-40e8322633a7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/1.0/calculator-1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/1.0/calculator-1.0.jar.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/1.0/calculator-1.0.jar.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/1.0/calculator-1.0.pom" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/1.0/calculator-1.0.pom.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/1.0/calculator-1.0.pom.sha1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/maven-metadata.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/maven-metadata.xml.md5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/maven-metadata.xml.sha1" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +25,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedIndex" value="3" />
-  </component>
   <component name="ProjectId" id="24kMZDF8IFQq7XcFUW5ZyGTzicT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -43,12 +34,17 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.33416876" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -107,7 +103,21 @@
       <option name="project" value="LOCAL" />
       <updated>1644175319475</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="calculator-1.0 library added second time">
+      <created>1644175738596</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1644175738596</updated>
+    </task>
+    <task id="LOCAL-00008" summary="calculator-1.0 library added second time">
+      <created>1644175964521</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1644175964521</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -115,6 +125,7 @@
     <MESSAGE value="gitignore file deleted" />
     <MESSAGE value="AddOperationTest class added" />
     <MESSAGE value="calculator-1.0 library added" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculator-1.0 library added" />
+    <MESSAGE value="calculator-1.0 library added second time" />
+    <option name="LAST_COMMIT_MESSAGE" value="calculator-1.0 library added second time" />
   </component>
 </project>

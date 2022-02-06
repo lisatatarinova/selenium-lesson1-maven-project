@@ -23,25 +23,25 @@
             <artifactId>testng</artifactId>
             <version>7.4.0</version>
         </dependency>
-        <dependency>
-            <groupId>com.example</groupId>
-            <artifactId>calculator</artifactId>
-            <version>1.0</version>
-        </dependency>
+
         <dependency>
             <groupId>org.assertj</groupId>
             <artifactId>assertj-core</artifactId>
             <version>3.22.0</version>
             <scope>test</scope>
         </dependency>
-
+        <dependency>
+            <groupId>com.example</groupId>
+            <artifactId>calculator</artifactId>
+            <version>1.0</version>
+        </dependency>
     </dependencies>
 
     <repositories>
         <repository>
-            <id>project.local</id>
+            <id>local.repo</id>
             <name>calculator</name>
-            <url>file:/Users/Elizaveta_Tatarinova/IdeaProjects/selenium-lesson1-maven-project/repo</url>
+            <url>/Users/Elizaveta_Tatarinova/Downloads/HW1.\ Unit\ Frameworks\ 3</url>
         </repository>
     </repositories>
 </project>

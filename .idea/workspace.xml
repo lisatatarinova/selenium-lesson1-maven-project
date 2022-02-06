@@ -5,10 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b0e2049-f288-4775-a344-40e8322633a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/checkstyle-idea.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/calculator_1_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-lesson1-maven-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/epam/tc/hw1/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/example/calculator/1.0/calculator-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/example/calculator/1.0/calculator-1.0.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/example/calculator/1.0/calculator-1.0.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/example/calculator/1.0/calculator-1.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/example/calculator/1.0/calculator-1.0.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/example/calculator/1.0/calculator-1.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/example/calculator/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/example/calculator/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/example/calculator/maven-metadata.xml.sha1" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,13 +55,24 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.33416876" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/src" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="calculator-1.0.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/repo/com/example/calculator/1.0/calculator-1.0.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.calculator-1.0.jar" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -117,7 +139,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644175964521</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="assertj dependency added">
+      <created>1644177133317</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1644177133317</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -126,6 +155,7 @@
     <MESSAGE value="AddOperationTest class added" />
     <MESSAGE value="calculator-1.0 library added" />
     <MESSAGE value="calculator-1.0 library added second time" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculator-1.0 library added second time" />
+    <MESSAGE value="assertj dependency added" />
+    <option name="LAST_COMMIT_MESSAGE" value="assertj dependency added" />
   </component>
 </project>

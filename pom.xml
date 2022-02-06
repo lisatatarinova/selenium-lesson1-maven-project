@@ -9,15 +9,20 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
-
 
         <checkstyle.version>9.2.1</checkstyle.version>
         <assertj-core.version>3.22.0</assertj-core.version>
     </properties>
 
     <dependencies>
-
+        <dependency>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <version>7.4.0</version>
+        </dependency>
+        
     </dependencies>
 </project>

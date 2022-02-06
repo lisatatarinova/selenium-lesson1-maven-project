@@ -11,6 +11,13 @@
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
         <maven.compiler.target>17</maven.compiler.target>
+
+
+        <checkstyle.version>9.2.1</checkstyle.version>
+        <assertj-core.version>3.22.0</assertj-core.version>
     </properties>
 
+    <dependencies>
+
+    </dependencies>
 </project>

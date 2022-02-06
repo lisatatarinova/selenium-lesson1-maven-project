@@ -23,11 +23,17 @@
             <artifactId>testng</artifactId>
             <version>7.4.0</version>
         </dependency>
-
-
-        
-
-
-
+        <dependency>
+            <groupId>com.example</groupId>
+            <artifactId>calculator</artifactId>
+        </dependency>
     </dependencies>
+
+    <repositories>
+        <repository>
+            <id>project.local</id>
+            <name>calculator</name>
+            <url>file:/Users/Elizaveta_Tatarinova/IdeaProjects/selenium-lesson1-maven-project/repo</url>
+        </repository>
+    </repositories>
 </project>

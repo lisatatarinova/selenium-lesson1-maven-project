@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b0e2049-f288-4775-a344-40e8322633a7" name="Changes" comment="" />
+    <list default="true" id="4b0e2049-f288-4775-a344-40e8322633a7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/1.0/calculator-1.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/1.0/calculator-1.0.jar.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/1.0/calculator-1.0.jar.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/1.0/calculator-1.0.pom" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/1.0/calculator-1.0.pom.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/1.0/calculator-1.0.pom.sha1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/maven-metadata.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/maven-metadata.xml.md5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/repo/com/epam/tc/hw1/calculator/maven-metadata.xml.sha1" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +32,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedIndex" value="2" />
+    <option name="selectedIndex" value="3" />
   </component>
   <component name="ProjectId" id="24kMZDF8IFQq7XcFUW5ZyGTzicT" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -89,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1644175144993</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="calculator-1.0 library added">
+      <created>1644175319475</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1644175319475</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
